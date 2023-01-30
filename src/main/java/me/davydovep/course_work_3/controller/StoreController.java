@@ -41,4 +41,5 @@ public class StoreController {
         storeService.expenditure(sockItem);
         return ResponseEntity.ok().build();
     }
+
 }

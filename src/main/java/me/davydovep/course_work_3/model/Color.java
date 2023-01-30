@@ -19,5 +19,4 @@ public enum Color {
         }
         return null;
     }
-
 }

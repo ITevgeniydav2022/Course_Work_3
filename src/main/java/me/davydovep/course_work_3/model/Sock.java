@@ -19,4 +19,5 @@ public class Sock {
         this.color = color;
         this.cottonPart = cottonPart;
     }
+
 }

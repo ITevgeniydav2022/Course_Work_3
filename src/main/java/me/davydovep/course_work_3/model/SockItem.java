@@ -11,4 +11,5 @@ public class SockItem {
     private Sock sock;
 
     private int quantity;
+
 }
